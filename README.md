@@ -1,5 +1,5 @@
 # RandomNano
-RandomNano is a Python program that selects a random set of albums from a given music folder. You can then transfer this random selection of albums to your mp3 player. I created this program as a way of exploring albums in my library that I wouldn't usually listen to. This program also include
+RandomNano is a Python program that selects a random set of albums from a given music folder. You can then transfer this random selection of albums to your mp3 player. I created this program as a way of exploring albums in my library that I wouldn't usually listen to. This program also includes the ability for on-the-fly mp3 conversion and Rockbox Artwork optimisation.
 
 To run RandomNano: Download all the files from Main to one folder and doubleclick 'RandomNano.pyw'. Alternatively, you can download a 'RandomNano.exe' from releases.
 
@@ -13,6 +13,6 @@ To run RandomNano: Download all the files from Main to one folder and doubleclic
 
 ![App Screenshot](https://github.com/Presto-mp3/RandomNano/blob/main/RandomNano%20Screenshot.PNG)
 
-## Dependencies
+## Requirements/Dependencies
 - Python
 - ffmpeg (for mp3 conversion)
